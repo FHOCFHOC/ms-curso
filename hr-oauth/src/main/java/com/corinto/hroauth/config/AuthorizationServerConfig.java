@@ -1,4 +1,4 @@
-package com.corinto.hroauth;
+package com.corinto.hroauth.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
