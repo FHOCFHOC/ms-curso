@@ -1,4 +1,4 @@
-package com.corinto.hrapigatewayzuul;
+package com.corinto.hrapigatewayzuul.config;
 
 
 import java.util.Arrays;
